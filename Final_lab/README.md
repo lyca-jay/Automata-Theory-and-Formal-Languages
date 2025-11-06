@@ -11,6 +11,7 @@
 | E | (D, C) | (E, C) |
 
 ### Mealy Machine Diagram
-![Mealy Machine]([Mealy diagram.drawio.png](https://github.com/lyca-jay/Automata-Theory-and-Formal-Languages/blob/main/Final_lab/Mealy%20diagram.drawio.png))
+<img width="906" height="512" alt="Image" src="https://github.com/user-attachments/assets/8264a796-82d1-4ab7-a0e7-016644640b80" />
+
 ### Moore Machine Diagram  
-![Moore Machine]([Moore diagram.drawio.png](https://github.com/lyca-jay/Automata-Theory-and-Formal-Languages/blob/main/Final_lab/Moore%20diagram.drawio.png))
+<img width="886" height="602" alt="Image" src="https://github.com/user-attachments/assets/edafd4f5-a71f-4a92-be75-6cbf0cf1ee19" />
